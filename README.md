@@ -1,2 +1,2 @@
-# Smileodon
-Smileodon Voice assistant
+# Voice Assistant
+Voice assistant using python voice recognition
